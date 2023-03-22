@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "4e3efa989547e2a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "54ea08566d91b5f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c754411de5fcb4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5BSI-Knowledge-Base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa6da4b66a02d7a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cad19dfb1704b1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5507a7c106162fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2045218a71fbf21",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8692efd79e97d00d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6697b2c3f84473b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "814f00da2c64fec7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82ead54ebc31b10d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5BSI-Knowledge-Base.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7295793238a8cba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5BSI-Knowledge-Base.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef1177390086bfea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "36eb4515a1a57347",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5BSI-Knowledge-Base.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4c754411de5fcb4d",
+  "lastOpenFiles": [
+    "FAQ il free software.md",
+    "5BSI-Knowledge-Base.md"
+  ]
+}
